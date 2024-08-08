@@ -53,7 +53,7 @@
             <mxPoint x="-120" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9suPyyE1rasKGQ6SKx1s-23" value="Cadastrar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9suPyyE1rasKGQ6SKx1s-23" value="Clicar em Cadastrar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9suPyyE1rasKGQ6SKx1s-28" value="Erro ao cadastrar" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
