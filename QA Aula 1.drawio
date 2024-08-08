@@ -10,6 +10,9 @@
         <mxCell id="9suPyyE1rasKGQ6SKx1s-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Ot2-EcF4Pjps9G5-t95-1" target="9suPyyE1rasKGQ6SKx1s-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9suPyyE1rasKGQ6SKx1s-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Ot2-EcF4Pjps9G5-t95-1" target="9suPyyE1rasKGQ6SKx1s-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4Ot2-EcF4Pjps9G5-t95-1" value="Digitar o Email" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
@@ -174,6 +177,23 @@
         </mxCell>
         <mxCell id="9suPyyE1rasKGQ6SKx1s-48" value="Não digitar campo obrigatório" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9suPyyE1rasKGQ6SKx1s-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9suPyyE1rasKGQ6SKx1s-51" target="9suPyyE1rasKGQ6SKx1s-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9suPyyE1rasKGQ6SKx1s-51" value="Email já existe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9suPyyE1rasKGQ6SKx1s-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9suPyyE1rasKGQ6SKx1s-53" target="4Ot2-EcF4Pjps9G5-t95-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="10" />
+              <mxPoint x="20" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9suPyyE1rasKGQ6SKx1s-53" value="Digite um email que não esteja cadastrado" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
