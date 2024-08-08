@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.7.6">
   <diagram name="Página-1" id="m51AZlesysTWS4gtmlsb">
-    <mxGraphModel dx="2014" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1523" dy="1543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
             <mxPoint x="20" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Ot2-EcF4Pjps9G5-t95-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="4Ot2-EcF4Pjps9G5-t95-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9suPyyE1rasKGQ6SKx1s-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="770" as="sourcePoint" />
             <mxPoint x="20.000000000000227" y="960" as="targetPoint" />
@@ -37,7 +37,7 @@
           <mxGeometry x="-40" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9suPyyE1rasKGQ6SKx1s-18" value="Insira uma senha" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9suPyyE1rasKGQ6SKx1s-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9suPyyE1rasKGQ6SKx1s-22" target="9suPyyE1rasKGQ6SKx1s-77">
           <mxGeometry relative="1" as="geometry" />
@@ -63,7 +63,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9suPyyE1rasKGQ6SKx1s-39" value="Não digitar campo obrigatório" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-250" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9suPyyE1rasKGQ6SKx1s-120" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9suPyyE1rasKGQ6SKx1s-45" target="9suPyyE1rasKGQ6SKx1s-90">
           <mxGeometry relative="1" as="geometry" />
@@ -124,8 +124,8 @@
         <mxCell id="9suPyyE1rasKGQ6SKx1s-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9suPyyE1rasKGQ6SKx1s-70" target="9suPyyE1rasKGQ6SKx1s-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-190" y="870" />
-              <mxPoint x="-190" y="870" />
+              <mxPoint x="-50" y="900" />
+              <mxPoint x="-50" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -133,18 +133,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9suPyyE1rasKGQ6SKx1s-70" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="850" width="50" height="40" as="geometry" />
+          <mxGeometry x="-5" y="880" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9suPyyE1rasKGQ6SKx1s-111" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9suPyyE1rasKGQ6SKx1s-73" target="9suPyyE1rasKGQ6SKx1s-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9suPyyE1rasKGQ6SKx1s-113" value="Mínimo 8 caracteres" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9suPyyE1rasKGQ6SKx1s-111">
+        <mxCell id="9suPyyE1rasKGQ6SKx1s-113" value="Mínimo 8 caracteres" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="9suPyyE1rasKGQ6SKx1s-111">
           <mxGeometry x="-0.4894" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-112" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9suPyyE1rasKGQ6SKx1s-73" value="Digitar menos que 8 caracteres" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="9suPyyE1rasKGQ6SKx1s-73" value="Senha fora do padrão" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9suPyyE1rasKGQ6SKx1s-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9suPyyE1rasKGQ6SKx1s-77" target="9suPyyE1rasKGQ6SKx1s-81">
           <mxGeometry relative="1" as="geometry" />
@@ -158,7 +158,7 @@
         <mxCell id="9suPyyE1rasKGQ6SKx1s-119" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9suPyyE1rasKGQ6SKx1s-81" target="9suPyyE1rasKGQ6SKx1s-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9suPyyE1rasKGQ6SKx1s-81" value="Não ser igual a senha" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9suPyyE1rasKGQ6SKx1s-81" value="Senhas não são iguais" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9suPyyE1rasKGQ6SKx1s-90" value="Digite um email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
